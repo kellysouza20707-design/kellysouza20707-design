@@ -1,16 +1,14 @@
-## Hi there 👋
+## ola , sou kelly souza
 
-<!--
-**kellysouza20707-design/kellysouza20707-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Atualmente, estou estudando Desenvolvimento de Web na Soluctions Cursos e Treinamentos
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Git / Git hub
+- CSS
+- lovable
+- PHP
+- SQL
+- typeScript
+- Github copilop
+-Bootstrap
+-Power BI
+-Excell
