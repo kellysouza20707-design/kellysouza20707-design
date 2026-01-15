@@ -2,7 +2,7 @@
 
 🚀 Atualmente, estou estudando Desenvolvimento de Web na Soluctions Cursos e Treinamentos
 
- -Git / Git hub
+- Git / Git hub
 - CSS
 - lovable
 - PHP
